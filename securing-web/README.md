@@ -1,7 +1,7 @@
 # securing-web
-[Spring.io - Securing a Web Application](https://spring.io/guides/gs/securing-web/#run_the_app)
+[Spring.io - Securing a Web Application](https://spring.io/guides/gs/securing-web/)
 
-Rest of this document is inspired by the [Spring.io - Securing a Web Application](https://spring.io/guides/gs/securing-web/#run_the_app) tutorial.
+Rest of this document is inspired by the [Spring.io - Securing a Web Application](https://spring.io/guides/gs/securing-web/) tutorial.
 
 ## Run
 
